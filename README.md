@@ -9,7 +9,7 @@ Suggestions and pull requests are highly encouraged!
 Please follow the below steps:
 
 ```sh
-git clone https://github.com/donur/warehouse-landing-page
-cd warehouse-landing-page
+git clone https://github.com/donur/landing-page
+cd landing-page
 code .
 ```
